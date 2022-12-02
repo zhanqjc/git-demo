@@ -12,5 +12,4 @@ hell atguigu! hello git!
 hell atguigu! hello git!
 hell atguigu! hello git!
 hell atguigu! hello git!
-hell atguigu! hello git!
-hell atguigu! hello git!
+hell atguigu! hello git! hot-fix test
