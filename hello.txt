@@ -14,5 +14,5 @@ hell atguigu! hello git!
 hell atguigu! hello git!
 hell atguigu! hello git! master test
 hell atguigu! hello git!
-hell atguigu! hello git! hot-fix-2 test
+hell atguigu! hello git! hot dog
 
